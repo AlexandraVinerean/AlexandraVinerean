@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexandraVinerean
 - 👀 I’m interested in full-time jobs.
 - 🌱 I’m currently learning Golang.
-- 💞️ I’m looking to collaborate on employment contract or servic agreement. 
+- 💞️ I’m looking to collaborate on employment contract or service agreement. 
 - 📫 How to reach me by email: alexandra.vinerean@yahoo.com.
 
 <!---
